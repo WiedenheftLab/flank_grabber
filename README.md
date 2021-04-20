@@ -41,9 +41,9 @@ Parameters [optional]:
 ----------------------
 	-f/--flank		200			This is the default length of flanks that is fetched.
 
-	-c/--circular	N			This is the default option that is assuming the sequence is not circular. Type "Y" insted if you know it is cirgulat genome or plasmid.
+	-c/--circular		N			This is the default option that is assuming the sequence is not circular. Type "Y" insted if you know it is cirgulat genome or plasmid.
 
-	-p/--promoter	N			Option "N" allows to get both flanks from each end of the gene. Type "Y" instead if you just want to fetch promoter region.
+	-p/--promoter		N			Option "N" allows to get both flanks from each end of the gene. Type "Y" instead if you just want to fetch promoter region.
 	
 Basic Options:
 --------------
